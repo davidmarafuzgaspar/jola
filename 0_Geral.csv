@@ -1,63 +1,59 @@
-website,brand,quantity,price,liter
-Auchan,Super Bock,30x0.25l,"13,59€","1,81€/L"
-Auchan,Super Bock,24x0.20l,"9,89€","2,06€/L"
-Auchan,Super Bock,15x0.20l,"6,99€","2,33€/L"
-Auchan,Super Bock,6x0.20l,"3,29€","2,74€/L"
-Auchan,Super Bock,30x0.20l,"12,99€","2,17€/L"
-Auchan,Super Bock,12x0.33l,"8,89€","2,24€/L"
-Auchan,Super Bock,10x0.20l,"5,49€","2,75€/L"
-Auchan,Super Bock,24x0.33l,"16,98€","2,14€/L"
-Auchan,Sagres,24x0.25l,"10,99€","1,83€/L"
-Auchan,Sagres,6x0.25l,"3,59€","2,39€/L"
-Auchan,Sagres,10x0.25l,"5,39€","2,16€/L"
-Auchan,Sagres,15x0.25l,"7,99€","2,13€/L"
-Auchan,Sagres,6x0.33l,"5,59€","2,82€/L"
-Auchan,Sagres,30x0.25l,"13,85€","1,85€/L"
-Auchan,Sagres,24x0.33l,"21,99€","2,78€/L"
-Auchan,Sagres,35x0.25l,"15,99€","1,83€/L"
-Continente,Super Bock,30x25cl,"13,99€","1,87€/L"
-Continente,Super Bock,24x33cl,"16,99€","2,15€/L"
-Continente,Super Bock,30x20cl,"11,99€","2,00€/L"
-Continente,Super Bock,24x20cl,"9,99€","2,08€/L"
-Continente,Super Bock,20x25cl,"9,99€","2,00€/L"
-Continente,Super Bock,12x33cl,"8,89€","2,24€/L"
-Continente,Super Bock,6x33cl,"4,79€","2,42€/L"
-Continente,Super Bock,15x20cl,"6,99€","2,33€/L"
-Continente,Super Bock,6x33cl,"4,89€","2,47€/L"
-Continente,Super Bock,10x20cl,"5,49€","2,75€/L"
-Continente,Super Bock,6x20cl,"3,29€","2,74€/L"
-Continente,Sagres,35x25cl,"15,99€","1,83€/L"
-Continente,Sagres,30x25cl,"13,85€","1,85€/L"
-Continente,Sagres,24x33cl,"22,28€","2,81€/L"
-Continente,Sagres,15x33cl,"13,96€","2,82€/L"
-Continente,Sagres,24x25cl,"11,49€","1,92€/L"
-Continente,Sagres,20x25cl,"9,99€","2,00€/L"
-Continente,Sagres,12x33cl,"7,08€","1,79€/L"
-Continente,Sagres,6x33cl,"5,59€","2,82€/L"
-Continente,Sagres,15x25cl,"7,99€","2,13€/L"
-Continente,Sagres,10x25cl,"5,39€","2,16€/L"
-Continente,Sagres,6x25cl,"3,59€","2,39€/L"
-Mini Preço,Super Bock,15x0.2l,"6,59€","2,20€/L"
-Mini Preço,Super Bock,20x0.25l,"9,59€","1,92€/L"
-Mini Preço,Super Bock,6x0.33l,"5,13€","3,72€/L"
-Mini Preço,Super Bock,6x0.2l,"3,45€","2,88€/L"
-Mini Preço,Super Bock,30x0.25l,"12,99€","1,73€/L"
-Mini Preço,Super Bock,24x0.20l,"9,89€","2,06€/L"
-Mini Preço,Sagres,30x0.25l,"13,54€","1,81€/L"
-Mini Preço,Sagres,6x0.33l,"5,79€","2,92€/L"
-Mini Preço,Sagres,6x0.25l,"3,59€","2,39€/L"
-Mini Preço,Sagres,24x0.25l,"11,49€","1,92€/L"
-Pingo Doce,Super Bock,12x33cl,"8,89€","2,24€/L"
-Pingo Doce,Super Bock,6x33cl,"4,89€","2,45€/L"
-Pingo Doce,Super Bock,24x33cl,"16,99€","2,15€/L"
-Pingo Doce,Super Bock,6x20cl,"3,29€","2,74€/L"
-Pingo Doce,Super Bock,15x20cl,"6,99€","2,33€/L"
-Pingo Doce,Super Bock,24x20cl,"10,49€","2,19€/L"
-Pingo Doce,Super Bock,30x25cl,"13,99€","1,87€/L"
-Pingo Doce,Sagres,15x33cl,"13,96€","2,82€/L"
-Pingo Doce,Sagres,20x25cl,"9,99€","2,00€/L"
-Pingo Doce,Sagres,6x33cl,"5,59€","2,82€/L"
-Pingo Doce,Sagres,30x25cl,"13,85€","1,85€/L"
-Pingo Doce,Sagres,6x25cl,"3,59€","2,39€/L"
-Pingo Doce,Sagres,24x25cl,"11,49€","1,92€/L"
-
+website,brand,quantity,price,liter,last
+Auchan,Super Bock,30x0.25l,"13,99€","1,87€/L",02/01/2024 01:27:30
+Auchan,Super Bock,30x0.20l,"11,59€","1,93€/L",
+Auchan,Super Bock,15x0.20l,"6,99€","2,33€/L",
+Auchan,Super Bock,24x0.20l,"10,49€","2,19€/L",
+Auchan,Super Bock,6x0.20l,"3,29€","2,74€/L",
+Auchan,Super Bock,10x0.20l,"5,49€","2,75€/L",
+Auchan,Super Bock,12x0.33l,"8,89€","2,24€/L",
+Auchan,Super Bock,24x0.33l,"19,99€","2,52€/L",
+Auchan,Sagres,35x0.25l,"15,99€","1,83€/L",
+Auchan,Sagres,24x0.25l,"11,49€","1,92€/L",
+Auchan,Sagres,10x0.25l,"5,39€","2,16€/L",
+Auchan,Sagres,6x0.33l,"5,59€","2,82€/L",
+Auchan,Sagres,6x0.25l,"3,59€","2,39€/L",
+Auchan,Sagres,15x0.25l,"7,99€","2,13€/L",
+Auchan,Sagres,30x0.25l,"13,79€","1,84€/L",
+Auchan,Sagres,24x0.33l,"21,99€","2,78€/L",
+Continente,Super Bock,30x25cl,"13,99€","1,87€/L",
+Continente,Super Bock,30x20cl,"11,99€","2,00€/L",
+Continente,Super Bock,24x33cl,"16,99€","2,15€/L",
+Continente,Super Bock,20x25cl,"9,99€","2,00€/L",
+Continente,Super Bock,12x33cl,"8,89€","2,24€/L",
+Continente,Super Bock,6x33cl,"4,79€","2,42€/L",
+Continente,Super Bock,6x33cl,"4,89€","2,47€/L",
+Continente,Super Bock,15x20cl,"6,99€","2,33€/L",
+Continente,Super Bock,10x20cl,"5,49€","2,75€/L",
+Continente,Super Bock,6x20cl,"3,29€","2,74€/L",
+Continente,Sagres,35x25cl,"15,99€","1,83€/L",
+Continente,Sagres,30x25cl,"13,85€","1,85€/L",
+Continente,Sagres,24x33cl,"22,28€","2,81€/L",
+Continente,Sagres,15x33cl,"13,96€","2,82€/L",
+Continente,Sagres,24x25cl,"11,49€","1,92€/L",
+Continente,Sagres,20x25cl,"9,99€","2,00€/L",
+Continente,Sagres,12x33cl,"7,08€","1,79€/L",
+Continente,Sagres,15x25cl,"7,99€","2,13€/L",
+Continente,Sagres,6x33cl,"5,59€","2,82€/L",
+Continente,Sagres,10x25cl,"5,39€","2,16€/L",
+Continente,Sagres,6x25cl,"3,59€","2,39€/L",
+Mini Preço,Super Bock,20x0.25l,"9,59€","1,92€/L",
+Mini Preço,Super Bock,30x0.25l,"12,59€","1,68€/L",
+Mini Preço,Super Bock,24x0.20l,"8,99€","1,87€/L",
+Mini Preço,Super Bock,6x0.33l,"5,13€","3,72€/L",
+Mini Preço,Super Bock,6x0.2l,"3,45€","2,88€/L",
+Mini Preço,Sagres,30x0.25l,"13,59€","1,81€/L",
+Mini Preço,Sagres,6x0.33l,"5,79€","2,92€/L",
+Mini Preço,Sagres,24x0.25l,"11,49€","1,92€/L",
+Pingo Doce,Super Bock,12x33cl,"8,89€",2.24€/L,
+Pingo Doce,Super Bock,6x33cl,"4,89€",2.47€/L,
+Pingo Doce,Super Bock,24x33cl,"16,99€",2.15€/L,
+Pingo Doce,Super Bock,6x20cl,"3,29€",2.74€/L,
+Pingo Doce,Super Bock,15x20cl,"6,99€",2.33€/L,
+Pingo Doce,Super Bock,30x25cl,"13,99€",1.87€/L,
+Pingo Doce,Super Bock,24x20cl,"9,99€",2.08€/L,
+Pingo Doce,Sagres,15x33cl,"13,96€",2.82€/L,
+Pingo Doce,Sagres,20x25cl,"9,99€",2.00€/L,
+Pingo Doce,Sagres,6x33cl,"5,59€",2.82€/L,
+Pingo Doce,Sagres,30x25cl,"13,85€",1.85€/L,
+Pingo Doce,Sagres,6x25cl,"3,59€",2.39€/L,
+Pingo Doce,Sagres,24x25cl,"11,49€",1.92€/L,
